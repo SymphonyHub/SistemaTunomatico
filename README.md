@@ -6,7 +6,7 @@ Tunomático es un sistema digital de agendamiento de turnos médicos que permite
 
 🔷 Diagrama de Casos de Uso UML
 
-
+![Casos de Uso](./imagenes/casos_uso.png)
 
 Actores:
 
@@ -30,7 +30,7 @@ Agendar por otros (<<include>> en reservar).
 
 📘 Diagrama de Clases UML con Patrones Aplicados
 
-
+![Clases UML](./imagenes/diagrama_clases.png)
 
 Patrones Aplicados:
 
@@ -58,7 +58,7 @@ InterfazUsuario abstrae entrada de usuario.
 
 🏗️ Diagrama de Implementación UML
 
-
+![Implementación UML](./imagenes/implementacion.png)
 
 Nodos:
 
